@@ -1,0 +1,57 @@
+# Welcome to Jekyll!
+#
+
+# Site settings
+title: Enrique Martin-Laguna Monreal
+description: |
+  Organista.
+owner: Enrique Martin-Laguna Monreal
+first_published: 2016 
+email: epmlres@gmail.com
+baseurl: "" 
+url: "http://martinlaguna.com"
+social:
+  #twitter: 
+  #github: 
+  linkedin-square: https://linkedin.com/in/enrique-martin-laguna-monreal-a29a70b7
+  facebook-official: https://facebook.com/enrique.martin.5492
+  #google-plus-square:
+  #email: /contact/
+  #flickr:
+  #instagram:
+  #youtube-square:
+  #spotify:
+  #stack-overflow:
+  #vimeo:
+  #reddit:
+  #stubleupon:
+  #delicious:
+  #pied-piper:
+  #digg:
+  #soundcloud:
+  #deviantart:
+  #angellist:
+  #tumblr-square:
+  #stackexchange:
+  #weibo:
+  #trello:
+  #foursquare:
+  #linux:
+  #bitbucket-square:
+  #vk:
+  #slack:
+  #vine:
+  #weixin:
+  #yelp:
+  #skyatlas:
+  #leanpub:
+  #connectdevelop:
+  #ils:
+  #forumbee:
+  #tripadvisor:
+  #amazon:
+
+# Build settings
+markdown: kramdown
+#sass:
+#  style: compressed
